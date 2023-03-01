@@ -1,0 +1,58 @@
+các lớp giả 
+
+
+ :root ( là lớp giả cho chứ)
+ :active( là lớp giả cho ô vs box bấm chuottj sẽ đổi màu)
+ :visited ( bấm vào dổi màtext-transform: uppercase;)
+ thuoc tinh : hover thay đổi màu khi di chuyển chuôt
+ h
+ ::first-letter ( dùng để viet hoa chữ cái đầu to như trong báo )
+
+ /***-------------thuoc tinh vè chư----------------*/
+
+ letter-spacing khoảng các giữ các chjuwx cái 
+ word -spacing (khoảng cách chữ )
+ light high() khoangt các dòng 
+ text shadow đổ bóng cho chữ 
+ text decortion : under line gạch chân 
+ font variant : small-caps viết hoa chữ nhỏ 
+ font style kiểu chữ in nghiên
+ font weitght xác định kiểu chữ in ddaam
+ text align căn lwf
+ text-tranform viết hoa các chữ
+
+ box shadow đổ bonhs cho 
+ boder là lopws bo bên ngoài lớp viền   
+ boder radius bo góc
+ boder soli bo cạnh vien
+ 
+ floal thả nổi hộp thuộc tính trái phải
+ clear xóa thả nổi
+ min- height là dộ cao tói thiểu 
+ backgroud image  ảnh nền lỉneả linearGradient dải maufchuyeenr 
+ backgroud size over là toàn bộ và phải đẻ height là 0px và pabding là 25%
+fame boder đặt độ dày  đường bao : px
+scrollinh chế độ thanh cuộn 3 giá trị yes/ no /auto
+backgroud repeat lâp lại 
+poistion định vị
+
+transform :.translated ( căn theo trục x ,y)
+overflower-warp: ngắt chữ xuống dòng 
+display :flexx(  + magin tự đọng căn giữa ) align tem căn giữa theo trục x 
+justyfi - conten tự ttongj căn dữa ( thuộc tinh space-aroud căn giữa và cách 
+space beteww căn 2 cữa ra 2 bên chữ giữ giữ nguyên)
+
+ tex
+text-index (Thuộc tính text-indent ghi rõ thụt đầu dòng của dòng đầu tiên trong một khối văn bản.)
+textarea ô nhập ý kiến
+keyfarm (lam cho phan tử tham chiêu chuyển giần xuống vd từ 0 đến 200px
+)
+background-poision ( thiết lạp vị trí ánh trên dưới trái phải)
+backgound-image: iner-grent 
+display :inlite- block ( giàn hàng ngang)
+display grip ( tạo hàng) display đi kepf với grip (bố cục lươi) kèm vs grid là grid-temlate-colum (dộ rộng trên giòng, dộ rộng của cột)
+opacity ( đô đậ nhạt của chữ , hình ảnh )
+backgrou-cover ( tôi ưu hình ảnh )
+box-sizing( boder-box toios ưu kích thước đúng như chieuf cao chiều rộng đã set 
+
+)
